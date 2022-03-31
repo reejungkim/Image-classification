@@ -7,6 +7,11 @@
 ## Image classification (Mnist)
 [See Jupyter Notebook](Mnist.ipynb)
 
+<img src="/img/eval.png" height="180" width="200">
+
+Keras
+Autoencoder
+
 ## Image comparison (Spot the difference)
 [See Jupyter Notebook](image%20comparison.ipynb)
 ```
