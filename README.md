@@ -7,7 +7,12 @@
 ## Image classification (Mnist)
 [See Jupyter Notebook](Mnist.ipynb)
 
-<img src="/img/eval.png" height="180" width="200">
+<img src="/img/eval.png" height="200" width="300">
+
+<img src="/img/false prediction.png" height="150" width="150">
+
+
+
 
 Keras
 Autoencoder
